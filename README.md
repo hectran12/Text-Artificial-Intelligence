@@ -1,2 +1,1 @@
-# Text-Artificial-Intelligence
-AI PROJECT
+AI if else đó, làm gì nhau?
